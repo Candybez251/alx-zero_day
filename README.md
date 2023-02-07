@@ -1,2 +1,2 @@
 My first readme
-git is hard
+git is hard, but candy is sweet!
